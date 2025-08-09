@@ -1,0 +1,2 @@
+vless://2e4fbe4b-db08-4ec6-83f7-604802f4c58b@47.57.13.107:443?encryption=none&security=tls&sni=tight.iwtfree.dpdns.org&allowInsecure=1&type=ws&host=tight.iwtfree.dpdns.org&path=%2F#HK-1 
+vless://2e4fbe4b-db08-4ec6-83f7-604802f4c58b@138.2.61.180:443?encryption=none&security=tls&sni=tight.iwtfree.dpdns.org&allowInsecure=1&type=ws&host=tight.iwtfree.dpdns.org&path=%2F#JP-2 
